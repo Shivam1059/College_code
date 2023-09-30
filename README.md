@@ -1,3 +1,3 @@
 # collegecode
-This is my first  Git Repository
-Authar - Shivam ahirwar
+This is my first  Git Repository.
+Author - Shivam ahirwar
